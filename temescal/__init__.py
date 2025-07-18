@@ -23,7 +23,8 @@ equalisers = ["Standard", "Bass", "Flat", "Boost", "Treble and Bass", "User",
               "Music", "Cinema", "Night", "News", "Voice", "ia_sound",
               "Adaptive Sound Control", "Movie", "Bass Blast", "Dolby Atmos",
               "DTS Virtual X", "Bass Boost Plus", "DTS X", "AI Sound Pro",
-              "Clear Voice", "Sports", "Game"]
+              "Clear Voice", "Sports", "Game", "Sync with TV", "AI Sound Pro (24)",
+              "AI Sound Pro (25)", "Clear Voice Pro"]
 
 STANDARD = 0
 BASS = 1
@@ -48,6 +49,10 @@ AI_SOUND_PRO = 19
 CLEAR_VOICE = 20
 SPORTS = 21
 GAME = 22
+SYNC_WITH_TV = 23
+AI_SOUND_PRO_24 = 24
+AI_SOUND_PRO_25 = 25
+CLEAR_VOICE_PRO = 26
 
 functions = ["Wi-Fi", "Bluetooth", "Portable", "Aux", "Optical", "CP", "HDMI",
              "ARC", "Spotify", "Optical2", "HDMI2", "HDMI3", "LG TV", "Mic",
